@@ -1,0 +1,1 @@
+dotnet "C:\Program Files (x86)\Amdocs\Ginger by amdocs\GingerConsole.dll" configfile --filename "C:\CAT_GingerDemo\Documents\RunSetShortCuts\Test-FlipkartProductSerach.Ginger.AutoRunConfigs.Config"
